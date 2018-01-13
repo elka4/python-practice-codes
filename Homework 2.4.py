@@ -1,6 +1,6 @@
 #convert pounds into kilograms
 
-pounds=input("Enter a value in pounds: ")
+pounds=input("Enter a value in pounds : ")
 
 kilograms = int(pounds) * 0.454
 
